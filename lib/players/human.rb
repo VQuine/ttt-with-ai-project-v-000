@@ -2,7 +2,7 @@ module Players
   class Human < Player
 
     def move(board_argument)
-      
+
 
       board_argument.display
 
